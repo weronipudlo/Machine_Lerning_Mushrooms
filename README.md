@@ -12,3 +12,5 @@ Kluczowe etapy projektu obejmują:
 3. Budowa modelu
 4. Ocena modelu za pomocą metryk
 5. Testowanie modelu
+
+<img src="msh.PNG">
